@@ -17,7 +17,7 @@ public class Main extends Application{
 	private AnchorPane layout;
 	
 	/*
-	 * Hacker: "I will make sender to send IP to me instead of router(target)"
+	 * Hacker: "I will make sender send IP to me instead of router(target)"
 	 */
 	public static byte[] myIP = null;
 	//Victim IP
